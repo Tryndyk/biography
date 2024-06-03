@@ -1,0 +1,133 @@
+@import url("fonts.css");
+@import url("reset.css");
+body{
+    font-family: Permanent Marker;
+   
+}
+.page {
+    padding: 50px 30px;
+    background-color: #F76683;
+    min-height: 100%;
+}
+
+.neno-page{
+    padding: 50px 30px;
+    background-color: #585555;
+    min-height: 100%;
+}
+
+.nastya-page{
+    padding: 50px 30px;
+    background-color: #D46A43;
+    min-height: 100%;
+}
+
+.neno-qna{
+    padding: 50px 30px;
+    background-color: #585555;
+    min-height: 100%;
+}
+
+.nastya-qna{
+    padding: 50px 30px;
+    background-color: #D75240;
+    min-height: 100%;
+}
+
+.nastya-vlog {
+    padding: 50px 30px;
+    background-color: #cfecf8;
+    min-height: 100%;padding: 50px 30px;
+}
+
+.neno-vlog {
+    padding: 50px 30px;
+    background-color: #585555;
+    min-height: 100%;padding: 50px 30px;
+}
+.neno-vlog-content{
+    background-color: #585555;
+    padding-inline: 30px;
+    padding-bottom: 30px;
+    border-radius: 0 0 30px 30px;
+    }
+    .neno-vlog-container {
+        max-width: 800px;
+        margin: 0 auto;
+    }
+.nastya-vlog-container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+.nastya-vlog-content{
+background-color: #7D5228;
+padding-inline: 30px;
+padding-bottom: 30px;
+border-radius: 0 0 30px 30px;
+}
+
+.main-background{
+    max-width: 100%;
+    margin-bottom: 40px;
+}
+
+.main-thing{
+    max-width: 100%;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+.buttons img {
+    max-width: 100%;
+}
+.neno-text{
+    color: #A08999;
+    text-shadow: 2px 2px 1px #453540;
+   max-width: 1000px;
+    margin: 0 auto 20px;
+    font-size: 24px;
+}
+.text{
+    color: #93350C;
+    text-shadow: 2px 2px 1px #ce7956;
+   max-width: 1000px;
+    margin: 0 auto 20px;
+    font-size: 24px;
+}
+.text-image{
+    max-width: 280px;
+    display: block;
+    margin: 0 auto 20px;
+}
+.text-button{
+    max-width: 280px;
+    display: block;
+    margin: 0 auto 20px;
+}
+.text-button img{
+    width: 100%;
+}
+.text-list li {
+    color: #842900;
+    text-shadow: 2px 2px 2px #D2837F;
+    max-width: 1000px;
+    margin: 0 auto 20px;
+    font-size: 24px;
+}
+
+.text-list-neno li{
+    color: #A08999;
+    text-shadow: 2px 2px 1px #453540;
+   max-width: 1000px;
+   margin: 0 auto 20px;
+    font-size: 24px;
+}
+
+.text-vlog{
+    color: aliceblue;
+    margin-bottom: 20px;
+
+}
